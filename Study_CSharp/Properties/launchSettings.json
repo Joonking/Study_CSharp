@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Study_CSharp": {
+      "commandName": "Project",
+      "commandLineArgs": "<input.txt>output.txt",
+      "workingDirectory": "C:\\Workspaces\\Study_CSharp\\Study_CSharp"
+    }
+  }
+}
