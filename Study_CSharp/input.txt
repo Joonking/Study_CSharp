@@ -1,1 +1,4 @@
-±ËπŒ¡ÿ
+static void Main(string[] args)
+        {
+
+        }

@@ -7,4 +7,23 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="02_처음만드는C#프로그램\01_Hello.cs" />
+    <Compile Remove="03_데이터보관하기\01_IntegralTypes.cs" />
+    <Compile Remove="03_데이터보관하기\02_IntegerLiterals.cs" />
+    <Compile Remove="03_데이터보관하기\03_SignedUnsigned.cs" />
+    <Compile Remove="03_데이터보관하기\04_Overflow.cs" />
+    <Compile Remove="03_데이터보관하기\05_FloatingPoint.cs" />
+    <Compile Remove="03_데이터보관하기\06_Decimal.cs" />
+    <Compile Remove="03_데이터보관하기\07_Char.cs" />
+    <Compile Remove="03_데이터보관하기\08_String.cs" />
+    <Compile Remove="03_데이터보관하기\09_Multiline.cs" />
+    <Compile Remove="03_데이터보관하기\10_Bool.cs" />
+    <Compile Remove="03_데이터보관하기\11_Object.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="02_처음만드는C#프로그램\" />
+  </ItemGroup>
+
 </Project>
