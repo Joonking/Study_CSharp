@@ -3,7 +3,7 @@
 ## 목차
 
 <details>
-<summary>### 1. 프로그래밍을 시작합시다. :white_check_mark:</summary>
+###<summary>1. 프로그래밍을 시작합시다. :white_check_mark:</summary>
 1.1 프로그래밍 언어의 역사
 
 __컴퓨터의 시작, 프로그래밍의 시작
