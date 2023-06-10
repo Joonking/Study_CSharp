@@ -20,10 +20,26 @@
     <Compile Remove="03_데이터보관하기\09_Multiline.cs" />
     <Compile Remove="03_데이터보관하기\10_Bool.cs" />
     <Compile Remove="03_데이터보관하기\11_Object.cs" />
+    <Compile Remove="03_데이터보관하기\12_BoxingUnboxing.cs" />
+    <Compile Remove="03_데이터보관하기\13_IntegralConversion.cs" />
+    <Compile Remove="03_데이터보관하기\14_FloatConversion.cs" />
+    <Compile Remove="03_데이터보관하기\15_SignedUnsignedConversion.cs" />
+    <Compile Remove="03_데이터보관하기\16_FloatToIntegral.cs" />
+    <Compile Remove="03_데이터보관하기\17_StringNumberConversion.cs" />
+    <Compile Remove="03_데이터보관하기\18_Constant.cs" />
+    <Compile Remove="03_데이터보관하기\19_Enum.cs" />
+    <Compile Remove="03_데이터보관하기\20_Enum2.cs" />
+    <Compile Remove="03_데이터보관하기\21_Enum3.cs" />
+    <Compile Remove="03_데이터보관하기\22_Nullable.cs" />
+    <Compile Remove="03_데이터보관하기\23_UsingVar.cs" />
+    <Compile Remove="03_데이터보관하기\24_CTS.cs" />
+    <Compile Remove="03_데이터보관하기\25_StringSearch.cs" />
+    <Compile Remove="03_데이터보관하기\26_StringModify.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="02_처음만드는C#프로그램\" />
+    <Folder Include="03_데이터보관하기\" />
   </ItemGroup>
 
 </Project>
