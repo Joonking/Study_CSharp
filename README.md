@@ -26,6 +26,8 @@
 22. 가비지 컬렉션
 
 
+<br/>
+
 강의 URL
 
 https://www.youtube.com/watch?v=0dkd2hELYEM&list=PLVsNizTWUw7GN8wPRhclbKuQa9aI9Cj2V&index=1
