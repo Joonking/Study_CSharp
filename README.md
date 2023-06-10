@@ -24,3 +24,7 @@
 20. WinForm으로 만드는 사용자 인터페이스
 21. 네트워크 프로그래밍
 22. 가비지 컬렉션
+
+
+강의 URL
+https://www.youtube.com/watch?v=0dkd2hELYEM&list=PLVsNizTWUw7GN8wPRhclbKuQa9aI9Cj2V&index=1
