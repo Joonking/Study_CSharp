@@ -40,11 +40,24 @@
     <Compile Remove="03_데이터보관하기\29_StringFormatNumber.cs" />
     <Compile Remove="03_데이터보관하기\30_StringFormatDatetime.cs" />
     <Compile Remove="03_데이터보관하기\31_StringInterpolation.cs" />
+    <Compile Remove="04_데이터를가공하는연산자\01_ArithmaticOperators.cs" />
+    <Compile Remove="04_데이터를가공하는연산자\02_IncDecOperator.cs" />
+    <Compile Remove="04_데이터를가공하는연산자\03_StringConcatenate.cs" />
+    <Compile Remove="04_데이터를가공하는연산자\04_RelationalOperator.cs" />
+    <Compile Remove="04_데이터를가공하는연산자\05_LogicalOperator.cs" />
+    <Compile Remove="04_데이터를가공하는연산자\06_ConditionalOperator.cs" />
+    <Compile Remove="04_데이터를가공하는연산자\07_NullConditionalOperator.cs" />
+    <Compile Remove="04_데이터를가공하는연산자\08_ShiftOperator.cs" />
+    <Compile Remove="04_데이터를가공하는연산자\09_BitwiseOperator.cs" />
+    <Compile Remove="04_데이터를가공하는연산자\10_AssignmentOperator.cs" />
+    <Compile Remove="04_데이터를가공하는연산자\11_NullCoalescing.cs" />
+    <Compile Remove="Test.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="02_처음만드는C#프로그램\" />
     <Folder Include="03_데이터보관하기\" />
+    <Folder Include="04_데이터를가공하는연산자\" />
   </ItemGroup>
 
 </Project>
