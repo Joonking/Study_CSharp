@@ -39,6 +39,7 @@
     <Compile Remove="03_데이터보관하기\28_StringFormatBasic.cs" />
     <Compile Remove="03_데이터보관하기\29_StringFormatNumber.cs" />
     <Compile Remove="03_데이터보관하기\30_StringFormatDatetime.cs" />
+    <Compile Remove="03_데이터보관하기\31_StringInterpolation.cs" />
   </ItemGroup>
 
   <ItemGroup>
