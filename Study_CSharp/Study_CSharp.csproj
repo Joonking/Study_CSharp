@@ -51,6 +51,22 @@
     <Compile Remove="04_데이터를가공하는연산자\09_BitwiseOperator.cs" />
     <Compile Remove="04_데이터를가공하는연산자\10_AssignmentOperator.cs" />
     <Compile Remove="04_데이터를가공하는연산자\11_NullCoalescing.cs" />
+    <Compile Remove="05_코드의흐름제어하기\01_IfElse.cs" />
+    <Compile Remove="05_코드의흐름제어하기\02_IfIf.cs" />
+    <Compile Remove="05_코드의흐름제어하기\03_Switch.cs" />
+    <Compile Remove="05_코드의흐름제어하기\04_Switch2.cs" />
+    <Compile Remove="05_코드의흐름제어하기\05_SwitchWhen.cs" />
+    <Compile Remove="05_코드의흐름제어하기\06_SwitchExp.cs" />
+    <Compile Remove="05_코드의흐름제어하기\07_While.cs" />
+    <Compile Remove="05_코드의흐름제어하기\08_DoWhile.cs" />
+    <Compile Remove="05_코드의흐름제어하기\09_For.cs" />
+    <Compile Remove="05_코드의흐름제어하기\10_ForFor.cs" />
+    <Compile Remove="05_코드의흐름제어하기\11_ForEach.cs" />
+    <Compile Remove="05_코드의흐름제어하기\12_InfiniteFor.cs" />
+    <Compile Remove="05_코드의흐름제어하기\13_InfiniteWhile.cs" />
+    <Compile Remove="05_코드의흐름제어하기\14_Break.cs" />
+    <Compile Remove="05_코드의흐름제어하기\15_Continue.cs" />
+    <Compile Remove="05_코드의흐름제어하기\16_Goto.cs" />
     <Compile Remove="Test.cs" />
   </ItemGroup>
 
@@ -58,6 +74,7 @@
     <Folder Include="02_처음만드는C#프로그램\" />
     <Folder Include="03_데이터보관하기\" />
     <Folder Include="04_데이터를가공하는연산자\" />
+    <Folder Include="05_코드의흐름제어하기\" />
   </ItemGroup>
 
 </Project>
