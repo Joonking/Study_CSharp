@@ -35,6 +35,10 @@
     <Compile Remove="03_데이터보관하기\24_CTS.cs" />
     <Compile Remove="03_데이터보관하기\25_StringSearch.cs" />
     <Compile Remove="03_데이터보관하기\26_StringModify.cs" />
+    <Compile Remove="03_데이터보관하기\27_StringSlice.cs" />
+    <Compile Remove="03_데이터보관하기\28_StringFormatBasic.cs" />
+    <Compile Remove="03_데이터보관하기\29_StringFormatNumber.cs" />
+    <Compile Remove="03_데이터보관하기\30_StringFormatDatetime.cs" />
   </ItemGroup>
 
   <ItemGroup>
