@@ -5,7 +5,7 @@
 1. 프로그래밍을 시작합시다.  :white_check_mark:
 2. 처음 만드는 C# 프로그램   :white_check_mark:
 3. 데이터 보관하기           :white_check_mark:
-4. 데이터를 가공하는 연산자
+4. 데이터를 가공하는 연산자  :white_check_mark:
 5. 코드의 흐름 제어하기
 6. 메소드로 코드 간추리기
 7. 클래스
