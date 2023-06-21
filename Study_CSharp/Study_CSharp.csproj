@@ -67,6 +67,17 @@
     <Compile Remove="05_코드의흐름제어하기\14_Break.cs" />
     <Compile Remove="05_코드의흐름제어하기\15_Continue.cs" />
     <Compile Remove="05_코드의흐름제어하기\16_Goto.cs" />
+    <Compile Remove="06_메소드로코드간추리기\01_Calculator.cs" />
+    <Compile Remove="06_메소드로코드간추리기\02_Return.cs" />
+    <Compile Remove="06_메소드로코드간추리기\03_SwapByValue.cs" />
+    <Compile Remove="06_메소드로코드간추리기\04_SwapByRef.cs" />
+    <Compile Remove="06_메소드로코드간추리기\05_RefReturn.cs" />
+    <Compile Remove="06_메소드로코드간추리기\06_UsingOut.cs" />
+    <Compile Remove="06_메소드로코드간추리기\07_Overloading.cs" />
+    <Compile Remove="06_메소드로코드간추리기\08_UsingParams.cs" />
+    <Compile Remove="06_메소드로코드간추리기\09_NamedParameter.cs" />
+    <Compile Remove="06_메소드로코드간추리기\10_OptionalParameter.cs" />
+    <Compile Remove="06_메소드로코드간추리기\11_LocalFunction.cs" />
     <Compile Remove="Test.cs" />
   </ItemGroup>
 
@@ -75,6 +86,7 @@
     <Folder Include="03_데이터보관하기\" />
     <Folder Include="04_데이터를가공하는연산자\" />
     <Folder Include="05_코드의흐름제어하기\" />
+    <Folder Include="06_메소드로코드간추리기\" />
   </ItemGroup>
 
 </Project>
