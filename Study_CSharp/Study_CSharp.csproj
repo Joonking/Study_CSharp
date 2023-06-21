@@ -78,6 +78,14 @@
     <Compile Remove="06_메소드로코드간추리기\09_NamedParameter.cs" />
     <Compile Remove="06_메소드로코드간추리기\10_OptionalParameter.cs" />
     <Compile Remove="06_메소드로코드간추리기\11_LocalFunction.cs" />
+    <Compile Remove="07_클래스\01_BasicClass.cs" />
+    <Compile Remove="07_클래스\02_Constructor.cs" />
+    <Compile Remove="07_클래스\03_StaticField.cs" />
+    <Compile Remove="07_클래스\04_DeepCopy.cs" />
+    <Compile Remove="07_클래스\05_This.cs" />
+    <Compile Remove="07_클래스\06_ThisConstructor.cs" />
+    <Compile Remove="07_클래스\07_AccessModifier.cs" />
+    <Compile Remove="07_클래스\08_Inheritance.cs" />
     <Compile Remove="Test.cs" />
   </ItemGroup>
 
@@ -87,6 +95,7 @@
     <Folder Include="04_데이터를가공하는연산자\" />
     <Folder Include="05_코드의흐름제어하기\" />
     <Folder Include="06_메소드로코드간추리기\" />
+    <Folder Include="07_클래스\" />
   </ItemGroup>
 
 </Project>
